@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/d3cfeadf-261c-4d58-a279-6718a1dcae13)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/84d43765-8d68-4cbd-bd02-867ec5081a8a)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/344712fc-183b-4471-abe7-cebcb5a5617a)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/ca12a99c-21d1-4483-aa19-eb3659267aff)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/ae941dea-65fc-4a9f-9493-80b69d8d8617)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/5365aa7a-347f-438e-98b7-dff6d0368346)# EXP-2
+
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -73,8 +73,11 @@ Tabulation for Load Test:
 
 
 
-Model graph:
-Calculation: 
+Model graph:![seven](https://github.com/user-attachments/assets/02825f87-f989-4f95-a2ff-a9f1b3289f2d)
+
+Calculation: ![image7](https://github.com/user-attachments/assets/6ffebe72-15d9-4e41-8f5a-aceb13373ff8)
+
+
 
 Open circuit characteristics: ![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/7aa09cf8-e49a-448d-a8b1-a2431aa1a6bd)
 
