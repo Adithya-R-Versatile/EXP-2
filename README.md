@@ -1,4 +1,4 @@
-# EXP-2
+![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/d3cfeadf-261c-4d58-a279-6718a1dcae13)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/84d43765-8d68-4cbd-bd02-867ec5081a8a)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/344712fc-183b-4471-abe7-cebcb5a5617a)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/ca12a99c-21d1-4483-aa19-eb3659267aff)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/ae941dea-65fc-4a9f-9493-80b69d8d8617)![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/5365aa7a-347f-438e-98b7-dff6d0368346)# EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -47,17 +47,40 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+
+|S.NO|VOLATAGE(V)|CURRENT(A)|
+ |:-----:|:------------:|:------------:|
+ |1|0|0|
+ |2|115|0.16|
+ |3|120|0.18|
+ |4|126|0.20|
+ |5|129|0.21|
+ |6|133|0.23|
+
 
 Tabulation for Load Test:
+|S.NO|CURRENT(A)|VOLATAGE(V)|
+|:-----:|:------------:|:------------:|
+ |1|1.2|220|
+ |2|2.8|212|
+ |3|3.2|208|
+ |4|3.6|205|
+ |5|5.5|200|
+ |6|7|195|
+
+
+
+
 
 Model graph:
 Calculation: 
 
-Open circuit characteristics
+Open circuit characteristics: ![WhatsApp Image 2025-11-25 at 16 50 37_895feb2a](https://github.com/user-attachments/assets/7aa09cf8-e49a-448d-a8b1-a2431aa1a6bd)
 
   
-Load Characteristics:
+Load Characteristics: ![WhatsApp Image 2025-11-25 at 16 50 38_f4e9196c](https://github.com/user-attachments/assets/ab691c35-c771-4601-81fd-d2dc8ada2138)
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
